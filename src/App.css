@@ -1,0 +1,28 @@
+body {
+  background-color: tomato;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(34, 4, 165, 0.932);
+}
+
+button {
+  background-color: #4c7aaf; 
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+
+
